@@ -1,2 +1,2 @@
 # website
-HTML,CSS code is preent in this git repo
+HTML,CSS code is present in this git repo
